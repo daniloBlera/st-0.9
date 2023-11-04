@@ -5,9 +5,10 @@ Version forked: [0.9](https://dl.suckless.org/st/st-0.9.tar.gz)
 ## Patches applied
 
 * iso 14755 [(st-iso14755-0.8.5.diff)][iso];
+* scrollback [(st-scrollback-ringbuffer-0.8.5.diff)][scrollback]
 
 [iso]: https://st.suckless.org/patches/iso14755/st-iso14755-0.8.5.diff
-
+[scrollback]: https://st.suckless.org/patches/scrollback/st-scrollback-ringbuffer-0.8.5.diff
 
 st - simple terminal
 --------------------
