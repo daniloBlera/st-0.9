@@ -2,6 +2,13 @@
 
 Version forked: [0.9](https://dl.suckless.org/st/st-0.9.tar.gz)
 
+## Patches applied
+
+* iso 14755 [(st-iso14755-0.8.5.diff)][iso];
+
+[iso]: https://st.suckless.org/patches/iso14755/st-iso14755-0.8.5.diff
+
+
 st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
