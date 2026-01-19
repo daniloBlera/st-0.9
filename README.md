@@ -34,8 +34,11 @@ the /usr/local namespace by default).
 Afterwards enter the following command to build and install st (if
 necessary as root):
 
-    make clean install
+    make clean install [DESTDIR=path/ending/with/slash/] [PREFIX=path/to/join/after/DESTDIR]
 
+For example, to install under `~/.local`:
+
+    make clean install PREFIX="$HOME/.local"
 
 Running st
 ----------
